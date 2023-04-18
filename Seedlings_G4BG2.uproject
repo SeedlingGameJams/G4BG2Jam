@@ -40,10 +40,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamAudio",
-			"Enabled": true
-		},
-		{
 			"Name": "WaveformEditor",
 			"Enabled": true
 		},
@@ -57,6 +53,10 @@
 		},
 		{
 			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
 			"Enabled": true
 		}
 	]
