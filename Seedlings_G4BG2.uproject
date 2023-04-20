@@ -62,6 +62,10 @@
 		{
 			"Name": "ScreenReader",
 			"Enabled": true
+		},
+		{
+			"Name": "SlateScreenReader",
+			"Enabled": true
 		}
 	]
 }
