@@ -58,6 +58,18 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "ScreenReader",
+			"Enabled": true
+		},
+		{
+			"Name": "SlateScreenReader",
+			"Enabled": true
+		},
+		{
+			"Name": "ConsoleVariables",
+			"Enabled": true
 		}
 	]
 }
