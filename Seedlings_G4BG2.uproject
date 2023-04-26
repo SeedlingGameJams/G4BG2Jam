@@ -70,6 +70,10 @@
 		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
+		},
+		{
+			"Name": "AudioMeterPlugin",
+			"Enabled": false
 		}
 	]
 }
