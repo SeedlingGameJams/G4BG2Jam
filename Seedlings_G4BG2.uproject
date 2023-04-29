@@ -24,13 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MicroSoftSpatialSound",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "Soundscape",
 			"Enabled": true
 		},
@@ -73,6 +66,11 @@
 		{
 			"Name": "AudioMeterPlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "AudioInspector",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/10d3f0d1ed654d89927afb8f4fa5acc0"
 		}
 	]
 }
