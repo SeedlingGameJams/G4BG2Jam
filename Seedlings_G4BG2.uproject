@@ -27,8 +27,7 @@
 			"Name": "MicroSoftSpatialSound",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
+				"Win64"
 			]
 		},
 		{
