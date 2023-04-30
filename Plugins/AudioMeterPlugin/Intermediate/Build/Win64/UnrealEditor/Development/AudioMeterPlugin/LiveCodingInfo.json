@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AudioMeterPlugin.cpp.obj": [
+			"AudioMeterParentWidget.gen.cpp.obj",
+			"AudioMeterPlugin.init.gen.cpp.obj",
+			"AudioMeterParentWidget.cpp.obj",
+			"AudioMeterPlugin.cpp.obj",
+			"AudioMeterPluginCommands.cpp.obj",
+			"AudioMeterPluginStyle.cpp.obj"
+		]
+	}
+}
