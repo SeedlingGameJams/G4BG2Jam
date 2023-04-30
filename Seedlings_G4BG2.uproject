@@ -64,10 +64,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AudioMeterPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "ResonanceAudio",
 			"Enabled": false
 		},
