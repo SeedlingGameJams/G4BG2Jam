@@ -52,14 +52,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ScreenReader",
-			"Enabled": true
-		},
-		{
-			"Name": "SlateScreenReader",
-			"Enabled": true
-		},
-		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
 		},
@@ -75,6 +67,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "TextToSpeech",
+			"Enabled": true
 		}
 	]
 }
